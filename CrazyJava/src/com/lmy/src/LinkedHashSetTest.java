@@ -1,7 +1,7 @@
 package com.lmy.src;
 
 import java.util.LinkedHashSet;
-//LinkedHashSet需要维护元素的插入顺序
+//LinkedHashSet闇�瑕佺淮鎶ゅ厓绱犵殑鎻掑叆椤哄簭
 public class LinkedHashSetTest {
 	public static void main(String[] args) {
 		LinkedHashSet books = new LinkedHashSet();
